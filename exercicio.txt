@@ -1,0 +1,9 @@
+git add .\calculadora.py
+git commit
+git add .\teste_calculadora.py
+git log
+git tag -a v1.2.0 f61715261a658bbdcbe004030366c6b5c5b9b7fd
+git commit
+git tag -a v1.3.0
+git push origin main 
+git push --tags
